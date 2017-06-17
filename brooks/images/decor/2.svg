@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="14" viewBox="0 0 90 14">
+  <g id="b" fill-rule="evenodd">
+    <g transform="rotate(-90 33.503 -20.485)">
+      <polygon points="10.229 10.328 10.229 9.113 10.229 1.851 8.827 8.904 1.817 10.328" transform="rotate(45 6.023 6.09)"/>
+      <polygon points="10.177 22.209 10.177 20.995 10.177 13.733 8.775 20.785 1.765 22.209" transform="rotate(45 5.971 17.971)"/>
+      <polygon points="10.177 34.209 10.177 32.995 10.177 25.733 8.775 32.785 1.765 34.209" transform="rotate(45 5.971 29.971)"/>
+    </g>
+    <g transform="rotate(90 17.5 18.5)">
+      <polygon points="10.229 10.328 10.229 9.113 10.229 1.851 8.827 8.904 1.817 10.328" transform="rotate(45 6.023 6.09)"/>
+      <polygon points="10.177 22.209 10.177 20.995 10.177 13.733 8.775 20.785 1.765 22.209" transform="rotate(45 5.971 17.971)"/>
+      <polygon points="10.177 34.209 10.177 32.995 10.177 25.733 8.775 32.785 1.765 34.209" transform="rotate(45 5.971 29.971)"/>
+    </g>
+    <polygon points="49.882 11.922 49.882 2.026 40.06 2.026 40.06 11.922" transform="rotate(45 44.971 6.974)"/>
+  </g>
+</svg>

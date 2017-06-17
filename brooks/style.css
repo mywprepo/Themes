@@ -1,0 +1,128 @@
+/*-----------------------------------------------------------------------------------
+
+Theme Name: Brooks
+Theme URI: http://theme.iondigi.com/brooks/wordpress/
+Description: Creative Multi-Purpose WordPress Theme
+Author: ION Digital
+Author URI: http://iondigi.com
+Text Domain: brooks
+Tags: left-sidebar, right-sidebar, full-width-template, theme-options, translation-ready
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Version: 1.0
+*/
+
+.aligncenter {
+    text-align:center;
+}
+
+.alignleft {
+    text-align:left;
+}
+
+.alignright {
+    text-align:right;
+}
+
+.wp-caption.alignright, img.alignright  {
+    float:right;
+    margin:5px 0 0 20px;
+}
+
+.wp-caption.alignleft, img.alignleft {
+    float:left;
+    margin:5px 20px 0 0;
+}
+
+.wp-caption.aligncenter, img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    clear:both;
+    margin-bottom:20px;
+}
+
+.no-page {
+    width: 270px;
+    position:relative;
+    margin:0 auto;
+}
+
+.size-auto,
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail {
+    max-width: 100%;
+    height: auto;
+}
+
+.wp-caption {
+    margin-bottom: 24px;
+}
+
+.wp-caption img[class*="wp-image-"] {
+    display: block;
+    margin: 0;
+}
+
+.wp-caption {
+    max-width: 100%;
+    background: #fff;
+    max-width: 100%;
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+
+.gallery-caption {
+	width: auto !important;
+	max-width: 100%;
+	margin-top: 18px;
+	margin-bottom: 18px;
+	display: table;
+	table-layout: fixed;
+
+}
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+
+.screen-reader-text:hover,
+.screen-reader-text:active,
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;   
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar */
+}
+.sticky {
+	opacity: 1;
+}
+.bypostauthor {
+	opacity: 1;
+}
+
